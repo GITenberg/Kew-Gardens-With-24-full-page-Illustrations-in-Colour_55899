@@ -1,10 +1,13 @@
 _repo: Kew-Gardens-With-24-full-page-Illustrations-in-Colour_55899
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Martin, T. Mower
     gutenberg_agent_id: '48575'
     url: http://www.gutenberg.org/2009/agents/48575
+covers:
+- cover_type: archival
+  image_path: 55899-h/images/cover.jpg
 creator:
   author:
     agent_name: Moncrieff, A. R. Hope (Ascott Robert Hope)
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '44064'
     url: http://www.gutenberg.org/2009/agents/44064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55899#Kew-Gardens-With-24-full-page-Illustrations-in-Colour
 gutenberg_issued: '2017-11-07'
 gutenberg_type: Text
 identifiers:
